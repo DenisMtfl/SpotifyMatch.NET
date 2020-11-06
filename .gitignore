@@ -3,3 +3,6 @@
 ################################################################################
 
 /SpotifyMatch.Library/obj
+/SpotifyMatch.GUI.Forms/obj
+/.vs
+*.user
